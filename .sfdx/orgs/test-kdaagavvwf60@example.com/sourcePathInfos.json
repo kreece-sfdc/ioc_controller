@@ -1,0 +1,302 @@
+[
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521640455833,
+            "changeTime": 1521640455833,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521640455833,
+            "changeTime": 1521640455833,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1521650255234,
+            "changeTime": 1521650255234,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1521640455833,
+            "changeTime": 1521640455833,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1521730614677,
+            "changeTime": 1521730614677,
+            "contentHash": "7f1912b268444605d710f38864837ad81826644f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/GermanTestImplementation.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/GermanTestImplementation.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 152,
+            "modifiedTime": 1521650255239,
+            "changeTime": 1521650255239,
+            "contentHash": "06a4fdf0ab601224e4b018a37bf4a3d992d0f262",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/GermanTestImplementation.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/GermanTestImplementation.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255239,
+            "changeTime": 1521650255239,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/ITestInterface.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/ITestInterface.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 78,
+            "modifiedTime": 1521650255236,
+            "changeTime": 1521650255236,
+            "contentHash": "d97f433db92561100935c30c38813f2b108d684d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/ITestInterface.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/ITestInterface.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255235,
+            "changeTime": 1521650255235,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoCInterface.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoCInterface.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33,
+            "modifiedTime": 1521650255241,
+            "changeTime": 1521650255241,
+            "contentHash": "7f83f256445d8bec03887f0906a67f6043071ee2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoCInterface.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoCInterface.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255240,
+            "changeTime": 1521650255240,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 414,
+            "modifiedTime": 1521730614677,
+            "changeTime": 1521730614677,
+            "contentHash": "9f5c7beec8d21d9e3f6ec792309b2ecb68642645",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255243,
+            "changeTime": 1521650255243,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2360,
+            "modifiedTime": 1521650255238,
+            "changeTime": 1521650255238,
+            "contentHash": "550624019bdb90e66148b6e9ae311c7a306242ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_Controller_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255238,
+            "changeTime": 1521650255238,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_InvalidImplementationException.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_InvalidImplementationException.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 69,
+            "modifiedTime": 1521650255245,
+            "changeTime": 1521650255245,
+            "contentHash": "6943682b14afe298cee15e79497cf5537fdd0ebc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_InvalidImplementationException.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/IoC_InvalidImplementationException.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255244,
+            "changeTime": 1521650255244,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/TestImplementation.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/TestImplementation.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 147,
+            "modifiedTime": 1521650255242,
+            "changeTime": 1521650255242,
+            "contentHash": "df9ab346cee08612ad9b2bf8848ab97f3a731c98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/TestImplementation.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller/force-app/main/default/classes/TestImplementation.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521650255242,
+            "changeTime": 1521650255242,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ioc_controller",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ioc_controller",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1521640610701,
+            "changeTime": 1521640610701,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
